@@ -8,4 +8,4 @@
 Постройте модель со значением метрики качества *F1* не меньше 0.75. 
 
 ## Теги
-`Python`, `NLP`, `BERT`
+`Python`, `NLP`, `BERT`, `Machine Learning`, `Scikit-Learn`, `LightGBM`
